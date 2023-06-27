@@ -1,0 +1,38 @@
+h1{
+	color: lightgrey;
+	background-color: black;
+	font-family: 'Shadows Into Light', cursive;
+	
+}
+h2{
+	color: black; 
+	
+}
+.myButton{
+	color: indigo; 
+	padding: 10px;
+	text-align: center;
+	margin-left: 10px;
+	border: 2px solid white;
+}
+body{
+    background-color: beige;
+    color: black;
+    padding: 30px; 
+    text-align: left;
+	
+}
+.mydiv{
+	width: 50%;
+	background-color: lightblue;
+	padding: 5px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.hello {
+	margin:left;
+	
+}
+
+.hello2 {
+	text-align: right;

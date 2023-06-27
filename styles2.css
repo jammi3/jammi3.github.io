@@ -1,0 +1,31 @@
+body{
+	background-color: white;
+	color : orange;
+	text-align:center;
+}
+
+h1{ 
+    color : orange;
+    text-align: center;
+	font-family: 'Kaushan Script', cursive;
+} 
+
+p{
+    color:white;
+}
+.Mybutton{
+	color: orange;
+	padding: 10xp;
+	background-color: black;
+	margin-left: 50px;
+	border: 2px solid white;
+}
+.MyDiv{
+	width: 50%;
+	background-color: teal;
+	border: 5px solid black;
+	border-radius: 15px;
+	padding: 20px;
+	margin-left:auto;
+	margin-right:auto;
+}
